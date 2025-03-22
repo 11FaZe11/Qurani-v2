@@ -23,7 +23,7 @@ export function IslamAIChat() {
     {
       role: "assistant",
       content:
-        "Assalamu alaikum! I am an AI assistant powered by Google's Gemini that can answer your questions about Islam and the Quran. How can I help you today?",
+        "Assalamu alaikum! I am an AI assistant that can answer your questions about Islam and the Quran. How can I help you today?",
     },
   ])
   const [input, setInput] = useState("")
